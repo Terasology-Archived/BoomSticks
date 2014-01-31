@@ -1,0 +1,7 @@
+{
+    "parent" : "engine:physicalDamage",
+    "blockDamage" : {
+        "blockAnnihilationChance" : 1,
+        "skipPerBlockEffects" : true
+    }
+}

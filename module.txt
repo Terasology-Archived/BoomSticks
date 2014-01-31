@@ -1,0 +1,9 @@
+{
+	"id" : "explosionLibary",
+	"version" : "0.0.3",
+	"author" : "Esa-Petri",
+	"displayName" : "Explosion Libary",
+	"description" :	"Libary to blow them all",
+    "dependencies" : [],
+    "isServerSideOnly" : false
+}

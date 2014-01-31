@@ -1,0 +1,14 @@
+{
+  "PlaySoundAction" : {
+    "sounds" : ["Explode1","Explode2","Explode3","Explode4","Explode5"]
+  },
+   "DisintegrationAction": {
+    "relativeTo" : "Self",
+    "type"=2,
+    "X"=12,
+    "Y"=16,
+    "Z"=12,
+    "damage"=200,
+    "preExplosionWait"=10000
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "Location" : {},
+  "Mesh" : {
+    "color" : [0.75, 0.75, 0.75, 1]
+  },
+  "CharacterMovement" : {
+    "height" : 1,
+    "radius" : 0.5,
+    "stepHeight" : 0,
+    "faceMovementDirection" : true
+  },
+  "Projectile" : {
+    "type" : "test"
+  },
+  "DisintegrationAction": {
+    "relativeTo" : "Self",
+    "type"=2,
+    "X"=12,
+    "Y"=16,
+    "Z"=12,
+    "damage"=200,
+    "preExplosionWait"=100
+  }
+  
+}
