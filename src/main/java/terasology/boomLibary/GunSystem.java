@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package terasology.explosionLibary;
+package terasology.boomLibary;
 
 import java.util.Collection;
 import java.util.Set;
@@ -46,7 +46,7 @@ import org.terasology.world.WorldProvider;
 import org.terasology.world.block.BlockManager;
 import org.terasology.world.block.family.BlockFamily;
 
-import terasology.explosionLibary.explosions.DisintegrationActionComponent;
+import terasology.boomLibary.explosions.DisintegrationActionComponent;
 
 import com.google.common.collect.HashMultimap;
 import com.google.common.collect.SetMultimap;

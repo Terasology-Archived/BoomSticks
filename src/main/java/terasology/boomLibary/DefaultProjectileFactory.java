@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package terasology.explosionLibary;
+package terasology.boomLibary;
 
 import javax.vecmath.Color4f;
 import javax.vecmath.Vector3f;

@@ -1,4 +1,4 @@
-package terasology.explosionLibary;
+package terasology.boomLibary;
 
 import org.terasology.asset.Assets;
 import org.terasology.entitySystem.prefab.Prefab;

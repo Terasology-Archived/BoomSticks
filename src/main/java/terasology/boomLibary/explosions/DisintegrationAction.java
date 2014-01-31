@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package terasology.explosionLibary.explosions;
+package terasology.boomLibary.explosions;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -27,7 +27,6 @@ import org.terasology.entitySystem.systems.In;
 import org.terasology.entitySystem.systems.RegisterMode;
 import org.terasology.entitySystem.systems.RegisterSystem;
 import org.terasology.entitySystem.systems.UpdateSubscriberSystem;
-import org.terasology.logic.characters.CharacterMovementComponent;
 import org.terasology.logic.common.ActivateEvent;
 import org.terasology.logic.health.DoDamageEvent;
 import org.terasology.logic.health.DoDestroyEvent;
@@ -41,9 +40,7 @@ import org.terasology.world.block.Block;
 import org.terasology.world.block.BlockManager;
 import org.terasology.math.TeraMath;
 
-import terasology.explosionLibary.ExplosionLibaryDamageTypes;
-import terasology.explosionLibary.ProjectileComponent;
-
+import terasology.boomLibary.ExplosionLibaryDamageTypes;
 import javax.vecmath.Vector3f;
 
 /**

@@ -17,7 +17,7 @@
     "parent" : "engine:iconItem",
     "Item" : {
         "name" : "TS00001",
-        "icon" : "Railgun",
+        "icon" : "engine:items.dynamite",
         "usage" : "IN_DIRECTION"
     },
     "Gun" : {

@@ -1,4 +1,4 @@
-package terasology.explosionLibary;
+package terasology.boomLibary;
 
 import org.terasology.engine.Time;
 import org.terasology.entitySystem.systems.In;

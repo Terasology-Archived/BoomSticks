@@ -1,4 +1,4 @@
-package terasology.explosionLibary;
+package terasology.boomLibary;
 
 import javax.vecmath.AxisAngle4f;
 import javax.vecmath.Vector3f;

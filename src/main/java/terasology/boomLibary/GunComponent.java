@@ -1,4 +1,4 @@
-package terasology.explosionLibary;
+package terasology.boomLibary;
 
 import java.util.List;
 

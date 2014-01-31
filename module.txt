@@ -1,9 +1,9 @@
 {
-	"id" : "explosionLibary",
-	"version" : "0.0.3",
+	"id" : "boomSticks",
+	"version" : "0.0.1",
 	"author" : "Esa-Petri",
-	"displayName" : "Explosion Libary",
-	"description" :	"Libary to blow them all",
+	"displayName" : "BoomSticks",
+	"description" :	"Sticks to blow them all",
     "dependencies" : [],
     "isServerSideOnly" : false
 }
